@@ -1,0 +1,29 @@
+{
+  "name": "@greenkeeper/content",
+  "description": "Templates for Greenkeeper pull requests",
+  "author": "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me)",
+  "bugs": {
+    "url": "https://github.com/greenkeeperio/content/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^4.3.5",
+    "standard": "^7.1.1"
+  },
+  "homepage": "https://github.com/greenkeeperio/content#readme",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greenkeeperio/content.git"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "test": "standard"
+  }
+}
