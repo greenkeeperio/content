@@ -4,7 +4,7 @@ Hello lovely humans,
 To take full advantage of this service I recommend to start out with up-to-date dependencies.
 
 I just **updated all the dependencies in the `package.json`** file in one go.
-Please look into these changes and make sure your project still works with these changes.
+Please look into these changes and make sure your project still works with them applied.
 If you can’t update everything right now that’s fine as well.
 We’ll get there over time.
 
