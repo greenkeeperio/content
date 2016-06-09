@@ -8,7 +8,7 @@ Hello lovely humans,
       State
     </th>
     <td>
-      <%= {update: ':rocket:', failure: ':warning:', noci: ':warning:'}[status] || ':rotating_light:' %>
+      <%= {update: 'Update :rocket:', failure: 'Failing tests :warning:', noci: 'No tests :warning:'}[status] || 'Failing tests :rotating_light:' %>
     </td>
   </tr>
   <tr>
