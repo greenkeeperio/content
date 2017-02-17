@@ -1,5 +1,7 @@
 # @greenkeeper/content
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/greenkeeperio/content.svg)](https://greenkeeper.io/)
+
 > Templates for Greenkeeper pull requests
 
 [![Build Status](https://travis-ci.org/greenkeeperio/content.svg?branch=master)](https://travis-ci.org/greenkeeperio/content)
