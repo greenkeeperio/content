@@ -6,7 +6,7 @@
     "url": "https://github.com/greenkeeperio/content/issues"
   },
   "dependencies": {
-    "lodash": "^4.13.1"
+    "lodash": "^4.17.9"
   },
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.0",
