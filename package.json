@@ -9,7 +9,7 @@
     "lodash": "^4.13.1"
   },
   "devDependencies": {
-    "greenkeeper-postpublish": "^1.0.0",
+    "greenkeeper-postpublish": "^2.0.0",
     "semantic-release": "^6.3.2",
     "standard": "^8.0.0"
   },
