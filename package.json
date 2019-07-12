@@ -11,7 +11,7 @@
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.0",
     "semantic-release": "^6.3.2",
-    "standard": "^8.0.0"
+    "standard": "^13.0.2"
   },
   "homepage": "https://github.com/greenkeeperio/content#readme",
   "license": "UNLICENSED",
